@@ -54,7 +54,7 @@ def main():
                 agent_prefix = """
                 Você é um assistente especialista em Análise Exploratória de Dados (E.D.A.) e relatórios em geral.
                 Sua função é analisar um arquivo de dados em formato de tabela (CSV) fornecido por um usuário.
-                Você deve responder perguntas sobre os dados, identificar padrões [cite: 29], detectar anomalias [cite: 33] e gerar gráficos conforme solicitado[cite: 20].
+                Você deve responder perguntas sobre os dados, identificar padrões, detectar anomalias e gerar gráficos conforme solicitado.
                 Seja preciso, objetivo e claro em suas respostas.
                 """
                 st.session_state.messages.append({"role": "user", "content": prompt})
