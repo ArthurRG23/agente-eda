@@ -34,6 +34,7 @@ Siga os passos abaixo para executar o agente na sua máquina local.
 
 * [Python](https://www.python.org/downloads/) (versão 3.9 ou superior)
 * [Git](https://git-scm.com/downloads)
+* [Streamit] Link para acessar o projeto: https://exercicio-leitor-csv.streamlit.app/
 
 ### 1. Clonar o Repositório
 
